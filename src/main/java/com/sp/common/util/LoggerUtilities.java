@@ -1,8 +1,8 @@
 package com.sp.common.util;
 
-import java.text.MessageFormat;
-
 import org.owasp.encoder.Encode;
+
+import java.text.MessageFormat;
 
 /**
  * Utility methods for constructing messages for application logs.
