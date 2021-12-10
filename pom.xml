@@ -15,7 +15,7 @@
     <owasp-encoder.version>1.2.2</owasp-encoder.version>
     <commons-collections.version>4.3</commons-collections.version>
     <slf4j.version>1.7.25</slf4j.version>
-    <log4j.version>2.14.1</log4j.version>
+    <log4j.version>2.15.0</log4j.version>
     <jackson.version>2.12.1</jackson.version>
     <lombok.version>1.18.8</lombok.version>
     <javadoc.skip>true</javadoc.skip>
